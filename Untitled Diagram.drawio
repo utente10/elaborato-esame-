@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T10:20:47.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.13" etag="OJw1MiFa_B7Kvj5ZPd4I" type="github"><diagram id="ilW6QP07F62Ll1rzHJ4k">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-24T10:24:54.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="kiRuHlYwS78db0oVy3oa" version="14.6.13" type="github">
+  <diagram id="ilW6QP07F62Ll1rzHJ4k" name="Page-1">
+    <mxGraphModel dx="782" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-mqGPDgTXEooJhEemLFb-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad10inch;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="488" height="693" as="geometry" />
+        </mxCell>
+        <mxCell id="-mqGPDgTXEooJhEemLFb-2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad10inch;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="40" width="488" height="693" as="geometry" />
+        </mxCell>
+        <mxCell id="-mqGPDgTXEooJhEemLFb-3" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad10inch;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="40" width="488" height="693" as="geometry" />
+        </mxCell>
+        <mxCell id="-mqGPDgTXEooJhEemLFb-4" value="&lt;font style=&quot;font-size: 56px&quot;&gt;Museo Diffuso&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="64" y="90" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-mqGPDgTXEooJhEemLFb-5" value="&lt;font style=&quot;font-size: 31px&quot;&gt;il &#39;900 in un click&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mqGPDgTXEooJhEemLFb-6" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
